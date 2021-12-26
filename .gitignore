@@ -131,3 +131,5 @@ dmypy.json
 */.vector_cache/
 *.csv
 *.parquet
+*.hdf5
+lab2/test_trainer/*
